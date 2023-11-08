@@ -8,6 +8,6 @@
 
 Greeting.create(greeting_text: 'Hello')
 Greeting.create(greeting_text: 'Bonjour')
-Greeting.create(greeting_text: 'ca va?)')
+Greeting.create(greeting_text: 'ca va?')
 Greeting.create(greeting_text: 'Hope your are doing well')
 Greeting.create(greeting_text: 'Have a good day Raph')
